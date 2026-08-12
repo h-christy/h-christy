@@ -1,4 +1,4 @@
-**Christy Hsu (To-Yuan Hsu)**
+**Christy Hsu**
 
 ### Selected Projects
 
