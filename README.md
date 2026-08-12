@@ -22,7 +22,9 @@ Human Responses to LLMs: A Sentiment Analysis
 
 [repo](https://github.com/h-christy/responseSentiments)
 
+Hot and Cold spots: Spatial Analysis for EV adoption and charging station distribution
 
+[github page](https://h-christy.github.io/24-manuscript/)
 
 
 <!--
