@@ -2,29 +2,19 @@
 
 ### Selected Projects
 
-Manchu Learning: Manchu-English Neural Machine Translation
+[Manchu Learning: Manchu-English Neural Machine Translation](https://h-christy.github.io/manchu-mt/)
 
-[github page](https://h-christy.github.io/manchu-mt/)
+[Modeling Political Islam](https://h-christy.github.io/layla/)
 
-Modeling Political Islam
 
-[gihub page](https://h-christy.github.io/layla/)
+[The 1954 Stouffer Study Revisited: Measuring American Tolerance, Archival Recovery and Data Ethics](https://h-christy.github.io/measuring-tolerance/)
 
-The 1954 Stouffer Study Revisited: Measuring American Tolerance, Archival Recovery and Data Ethics
+[Predicting Emergency Department Disposition Using Statistical Learning](https://github.com/h-christy/predict-ed-disposition/blob/main/emergency-department-disposition-ml.pdf)
 
-[github page](https://h-christy.github.io/measuring-tolerance/)
+[Human Responses to LLMs: A Sentiment Analysis](https://github.com/h-christy/responseSentiments)
 
-Predicting Emergency Department Disposition Using Statistical Learning
 
-[report](https://github.com/h-christy/predict-ed-disposition/blob/main/emergency-department-disposition-ml.pdf)
-
-Human Responses to LLMs: A Sentiment Analysis
-
-[repo](https://github.com/h-christy/responseSentiments)
-
-Hot and Cold spots: Spatial Analysis for EV adoption and charging station distribution
-
-[github page](https://h-christy.github.io/24-manuscript/)
+[Hot and Cold spots: Spatial Analysis for EV adoption and charging station distribution](https://h-christy.github.io/24-manuscript/)
 
 
 <!--
