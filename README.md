@@ -4,17 +4,21 @@
 
 [Manchu Learning: Manchu-English Neural Machine Translation](https://h-christy.github.io/manchu-mt/)
 
+[Connecting U.S. Locals: U.S. Location Subreddits Analyzed](https://h-christy.github.io/hchristy-slides/cloud-page.html)
+
 [Modeling Political Islam](https://h-christy.github.io/layla/)
 
 
 [The 1954 Stouffer Study Revisited: Measuring American Tolerance, Archival Recovery and Data Ethics](https://h-christy.github.io/measuring-tolerance/)
 
-[Predicting Emergency Department Disposition Using Statistical Learning](https://github.com/h-christy/predict-ed-disposition/blob/main/emergency-department-disposition-ml.pdf)
+[Predicting Emergency Department Disposition Using Statistical Learning](https://h-christy.github.io/hchristy-slides/ed-project-en.html)
 
 [Human Responses to LLMs: A Sentiment Analysis](https://github.com/h-christy/responseSentiments)
 
 
 [Hot and Cold spots: Spatial Analysis for EV adoption and charging station distribution](https://h-christy.github.io/24-manuscript/)
+
+[R Workshop for GIS](https://gugis.dev/)
 
 
 <!--
