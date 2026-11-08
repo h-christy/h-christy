@@ -4,7 +4,7 @@
 
 [Manchu Learning: Manchu-English Neural Machine Translation](https://h-christy.github.io/manchu-mt/)
 
-[Connecting U.S. Locals: U.S. Location Subreddits Analyzed](https://h-christy.github.io/hchristy-slides/cloud-page.html)
+[Connecting U.S. Locals: U.S. Location Subreddits Analyzed](https://h-christy.github.io/hchristy-slides/cloud-presentation-page.html)
 
 [Modeling Political Islam](https://h-christy.github.io/layla/)
 
